@@ -1,1 +1,1 @@
-# BugReports
+# test artifacts
